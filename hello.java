@@ -3,4 +3,8 @@ public class hello {
         System.out.println("Hello World");
     }
 
+
+    public static void secondCommit(){
+        System.out.println("Second Commit");
+    }
 }
